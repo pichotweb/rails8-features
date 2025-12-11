@@ -5,7 +5,7 @@ Study project to test rails 8 new features!
 Major feratures to test! [Rails release notes](https://guides.rubyonrails.org/8_0_release_notes.html)
 
 # Major Features
-- [ ] Kamal 2
+- [x] Kamal 2
   - Rails now comes preconfigured with Kamal 2 for deploying your application. Kamal takes a fresh Linux box and turns it into an application or accessory server with just a single “kamal setup” command.
 Kamal 2 also includes a proxy called Kamal Proxy to replace the generic Traefik option it used at launch.
 
